@@ -8,7 +8,7 @@
 1. `npm install`
 2. `npm start` to start the server
 
-Here is my [portfolio](www.google.com)
+Here is my [portfolio](https://github.com/DannyQuinones)
 
 
 made by Daniel Quinones
